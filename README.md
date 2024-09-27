@@ -1,6 +1,6 @@
 # Content
 
-In this repository, 4 computer assignments of the course “*Introduction to Artificial Intelligence and Machine Learning*” lectured by *Dr. Hakimeh Fadaei* have been stored. All of them, except *CA03* which was delivered unfinished due to the project's time limit, recieved almost full marks *or even more, thanks to the bonus sections*. Each folder contains the completed Jupyter Notebook of the assignment, along with its *HTML*output and dependencies like images or datasets. The original manuscript of the project objectives are also included. It's highly recommended to download and open up *report* files for a better glance of whole project delivery. 
+In this repository, 4 computer assignments of the course “*Introduction to Artificial Intelligence and Machine Learning*” lectured by *Dr. Hakimeh Fadaei* have been stored. All of them, except *CA03* which was delivered unfinished due to the project's time limit, recieved almost full marks *or even more, thanks to the bonus sections*. Each folder contains the completed Jupyter Notebook of the assignment, along with its *HTML*output and dependencies like images or datasets. The original manuscript of the project objectives are also included. It's highly recommended to download and open up *report* files using a web browser for a better glance of whole project delivery. 
 
 A brief description of these mini-projects would be:
 
